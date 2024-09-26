@@ -21,7 +21,7 @@ const ContactForm = () => {
                   />
                 </div>
               </div>
-              <form name="contact" data-nelify="true" method="post"></form>
+              <form name="contact" data-netlify="true" method="post"></form>
               <div className="p-2 w-1/2">
                 <div className="relative">
                   <label htmlFor="email" className="leading-7 text-lg text-gray-500">Contact Number</label>
@@ -66,3 +66,4 @@ const ContactForm = () => {
   
   export default ContactForm;
   
+
