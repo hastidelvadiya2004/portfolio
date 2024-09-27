@@ -14,7 +14,7 @@ export default function Home() {
     <About></About>
     <Team></Team>
     <Gallery></Gallery>
-    {/* <ContactForm></ContactForm> */}
+    <ContactForm></ContactForm>
     <Footer></Footer>
     </>
   );
